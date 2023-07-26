@@ -44,7 +44,7 @@ const Content = () => {
 const Header = () => {
   return (
     <header>
-      <Title>Little Lemon 🍕</Title>
+      <Title>Little lemon 🍕</Title>
       <Switch />
     </header>
   );
